@@ -1,5 +1,11 @@
 # @vercel/fs-detectors
 
+## 5.5.5
+
+### Patch Changes
+
+- Add support for inlclude/exclude files config from vercel.json ([#13946](https://github.com/vercel/vercel/pull/13946))
+
 ## 5.5.4
 
 ### Patch Changes

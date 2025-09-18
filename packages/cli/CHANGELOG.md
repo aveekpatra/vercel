@@ -1,5 +1,22 @@
 # vercel
 
+## 48.1.0
+
+### Minor Changes
+
+- Add `env update` command to update an environment variable. ([#13894](https://github.com/vercel/vercel/pull/13894))
+
+  Previously it was required to remove and re-add the environment variable to update it.
+
+### Patch Changes
+
+- Updated dependencies [[`20849c717da6d26d3487c414bee1560d0dd78909`](https://github.com/vercel/vercel/commit/20849c717da6d26d3487c414bee1560d0dd78909), [`aaddc91799f5b26a626dd1a7c0e070f334d09be5`](https://github.com/vercel/vercel/commit/aaddc91799f5b26a626dd1a7c0e070f334d09be5)]:
+  - @vercel/next@4.12.6
+  - @vercel/node@5.3.23
+  - @vercel/express@0.0.17
+  - @vercel/h3@0.1.1
+  - @vercel/hono@0.1.1
+
 ## 48.0.3
 
 ### Patch Changes
